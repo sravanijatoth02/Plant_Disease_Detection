@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1b1ZHVNuWLxC1aWH7PO9-mwql0Q3306kl/view?usp=drive
 
 # Screenshot
 ![Screenshot (1264)](https://github.com/sravanijatoth02/Plant_Disease_Detection/assets/101631497/79868d8f-289e-4bca-bc93-ff80822c9fb4)
+![Screenshot (1265)](https://github.com/sravanijatoth02/Plant_Disease_Detection/assets/101631497/8f225cb9-4d10-4c73-bc63-b1043aebc710)
 
 
 # Description
