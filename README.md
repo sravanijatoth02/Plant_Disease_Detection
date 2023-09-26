@@ -15,12 +15,12 @@ https://drive.google.com/file/d/1b1ZHVNuWLxC1aWH7PO9-mwql0Q3306kl/view?usp=drive
 
 
 # Description
-1) Train the model using CNN in jupyter notebook in anaconda.
-2) The model will be saved as .pt file.
-3) Upload the .pt file in the Flask Depolyed App.
-4) The run the Flask Depolyed App in new terminal using python App.py command.
+1) Train the model using CNN in jupyter notebook.
+2) Save the model as .pt file or else use the pre-trained model.
+3) paste the.pt file in the Flask Depolyed App folder.
+4) Then run the Flask Depolyed App folder using python App.py command in visual studio.
 5) The desired web page will be opened , upload the test images which has been already uploaded.
-6) The diseased leaves with its description and supplements will be mentioned.
+6) The diseased leaves with its description and supplements will be displayed.
 
 
 
