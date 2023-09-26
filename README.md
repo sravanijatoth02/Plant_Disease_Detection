@@ -10,7 +10,7 @@ Download the pretrained model from the below link :
 https://drive.google.com/file/d/1b1ZHVNuWLxC1aWH7PO9-mwql0Q3306kl/view?usp=drive_link
 
 # Screenshot
-![image](https://github.com/sravanijatoth02/Bingo_Game/assets/101631497/e4757827-9f82-4cb8-8669-c2bce525636c)
+![image](C:\Users\J POORNA CHANDER\Downloads\PDD_CODE\PDD_CODE\Plant_Disease_Detection\Flask Deployed App\Screenshots_webapp\Screenshot (1265).png)
 
 # Description
 1) Train the model using CNN in jupyter notebook in anaconda.
