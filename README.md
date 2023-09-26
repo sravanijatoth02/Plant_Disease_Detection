@@ -10,7 +10,7 @@ Download the pretrained model from the below link :
 https://drive.google.com/file/d/1b1ZHVNuWLxC1aWH7PO9-mwql0Q3306kl/view?usp=drive_link
 
 # Screenshot
-![Uploading image.png…]()
+![image](https://github.com/sravanijatoth02/Bingo_Game/assets/101631497/e4757827-9f82-4cb8-8669-c2bce525636c)
 
 # Description
 1) Train the model using CNN in jupyter notebook in anaconda.
