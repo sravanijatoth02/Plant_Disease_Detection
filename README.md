@@ -5,3 +5,10 @@ Plant Disease is necessary for every farmer so we are created Plant disease dete
 # Dataset link 
 https://data.mendeley.com/datasets/tywbtsjrjv/1
 
+# pretrained model using cnn
+https://drive.google.com/file/d/1b1ZHVNuWLxC1aWH7PO9-mwql0Q3306kl/view?usp=drive_link
+
+
+
+
+
