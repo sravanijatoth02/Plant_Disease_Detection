@@ -9,6 +9,12 @@ https://data.mendeley.com/datasets/tywbtsjrjv/1
 Download the pretrained model from the below link :
 https://drive.google.com/file/d/1b1ZHVNuWLxC1aWH7PO9-mwql0Q3306kl/view?usp=drive_link
 
+# Screenshots of web pages
+![Uploading image.png…]()
+
+
+
+
 
 
 
