@@ -1,2 +1,7 @@
 # Plant_Disease_Detection
-Plant disease detection project uses CNN model and this is  developed using visual studio and jupiter.
+Crop disease are a major threat to food security , but their rapid identification remains diffcult in many parts of the world due to the lack of the neccessary infrastructure.
+Plant Disease is necessary for every farmer so we are created Plant disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories.
+
+# Dataset link 
+https://data.mendeley.com/datasets/tywbtsjrjv/1
+
